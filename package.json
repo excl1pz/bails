@@ -1,16 +1,16 @@
 {
-    "name": "zaxmpjhg/WaBails",
+    "name": "shinzepelly/bails",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By zax",
+    "description": "baileys modified shin",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/zaxmpjhg/WaBails",
+    "homepage": "https://github.com/DazelXv/bails",
     "repository": {
-        "url": "https://github.com/zaxmpjhg/WaBails"
+        "url": "https://github.com/DazelXv/bails"
     },
     "license": "MIT",
-    "author": "ZaxSql - Determinator",
+    "author": "ShinZepellyr",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
