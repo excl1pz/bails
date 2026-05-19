@@ -63,7 +63,7 @@ const image = fs.readFileSync('./shinvoc');
 await client.sendMessage(m.chat, {
   thumbnail: image,
   message: "Gotta get a grip",
-  orderTitle: "shinvoc-Corporation",
+  orderTitle: "shinvoc",
   totalAmount1000: 72502,
   totalCurrencyCode: "IDR"
 }, { quoted:m })
@@ -73,7 +73,7 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.sendMessage(m.chat, {
   pollResultMessage: {
-    name: "zax-Corporation",
+    name: "shin",
     options: [
       {
         optionName: "poll 1"
