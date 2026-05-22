@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "npm:@shinzepelly/bails"
+  "@whiskeysockets/baileys": "npm:@exclipz/bails"
 }
 ```
 ## Import
