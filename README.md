@@ -8,8 +8,18 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "npm:@exclipz/bails"
+  "@whiskeysockets/baileys":"npm:@exclipz/bails"
 }
+```
+
+---
+## UsageV2
+```json
+"depencies": {
+  "@exclipz/bails":"latest"
+}
+```
+
 ```
 ## Import
 ```javascript
