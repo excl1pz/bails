@@ -22,7 +22,7 @@
 
 ---
 ```## Import
-```javascript
+javascript
 const {
   default:makeWASocket,
   // Other Options 
