@@ -21,8 +21,8 @@
 ```
 
 ---
-```## Import
-javascript
+## Import
+```javascript
 const {
   default:makeWASocket,
   // Other Options 
