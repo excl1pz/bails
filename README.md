@@ -19,10 +19,9 @@
   "@exclipz/bails":"latest"
 }
 ```
----
 
-```
-## Import
+---
+```## Import
 ```javascript
 const {
   default:makeWASocket,
